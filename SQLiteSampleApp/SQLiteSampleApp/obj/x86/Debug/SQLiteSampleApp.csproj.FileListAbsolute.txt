@@ -1,0 +1,5 @@
+c:\users\wirasetiawan29\documents\visual studio 2013\Projects\SQLiteSampleApp\SQLiteSampleApp\obj\x86\Debug\App.g.cs
+c:\users\wirasetiawan29\documents\visual studio 2013\Projects\SQLiteSampleApp\SQLiteSampleApp\obj\x86\Debug\MainPage.g.cs
+c:\users\wirasetiawan29\documents\visual studio 2013\Projects\SQLiteSampleApp\SQLiteSampleApp\obj\x86\Debug\SQLiteSampleApp.g.resources
+c:\users\wirasetiawan29\documents\visual studio 2013\Projects\SQLiteSampleApp\SQLiteSampleApp\obj\x86\Debug\SQLiteSampleApp.Resources.AppResources.resources
+c:\users\wirasetiawan29\documents\visual studio 2013\Projects\SQLiteSampleApp\SQLiteSampleApp\obj\x86\Debug\SQLiteSampleApp.csproj.GenerateResource.Cache
