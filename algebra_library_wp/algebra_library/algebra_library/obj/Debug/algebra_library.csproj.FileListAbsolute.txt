@@ -1,0 +1,5 @@
+c:\users\wirasetiawan29\documents\visual studio 2013\Projects\algebra_library\algebra_library\bin\Debug\algebra_library.dll
+c:\users\wirasetiawan29\documents\visual studio 2013\Projects\algebra_library\algebra_library\bin\Debug\algebra_library.pdb
+c:\users\wirasetiawan29\documents\visual studio 2013\Projects\algebra_library\algebra_library\obj\Debug\algebra_library.csprojResolveAssemblyReference.cache
+c:\users\wirasetiawan29\documents\visual studio 2013\Projects\algebra_library\algebra_library\obj\Debug\algebra_library.dll
+c:\users\wirasetiawan29\documents\visual studio 2013\Projects\algebra_library\algebra_library\obj\Debug\algebra_library.pdb
